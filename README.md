@@ -2,4 +2,4 @@
 2D side scroller
 Simple space shooter.
 TODO: Add enemy AI.
-![Alt text](res/screenshot.jpg?raw=true "Title")
+![Screenshot](https://github.com/manas96/spaceship/blob/master/res/screenshot.png)
